@@ -5,7 +5,16 @@ $(function(){
   var nameDisplay = $('.name-display'),
       nameInput   = $('.name-input');
   
+  // TODO: finish this validation function.
+  var validateName = function(value){
+    if(!value) return;
+    var firstChar = value[0];
+    if(firstChar !== firstChar.toUpperCase())
+      alert('Not implemented.'); // TODO: show .alert-error
+  };
+
   nameInput.on('change keyup', function(e){
+    validateName($(this).val());
     nameDisplay.text($(this).val());
   });
 
