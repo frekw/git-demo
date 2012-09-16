@@ -10,6 +10,7 @@ The logo is all wrong. Fix it. Real logo: http://goo.gl/Y8VLw
 
 ## BUG-2
 We seem to be getting a script error. Fix it.
+While doing this, you notice that the Javascript error handler uses alert instead of console.log. Also change this, but keep your commits pretty.
 
 ## BUG-3
 Someone seems to have left an unfinished feature in the code base. Clicking the Ask button should prompt the user for his/her name, and update the input/message appropriately. (Hint: use prompt(msg)).
