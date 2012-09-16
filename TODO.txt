@@ -6,7 +6,7 @@
 # Tasks
 
 ## BUG-1
-The logo is all wrong. Fix it.
+The logo is all wrong. Fix it. Real logo: http://goo.gl/Y8VLw
 
 ## BUG-2
 We seem to be getting a script error. Fix it.
