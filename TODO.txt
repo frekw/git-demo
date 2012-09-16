@@ -12,7 +12,9 @@ The logo is all wrong. Fix it. Real logo: http://goo.gl/Y8VLw
 We seem to be getting a script error. Fix it.
 
 ## BUG-3
-Someone seems to have left an unfinished feature in the code base. Clicking the Ask button should prompt the user for his/her name, and update the input/message appropriately. (Hint: use prompt(msg))
+Someone seems to have left an unfinished feature in the code base. Clicking the Ask button should prompt the user for his/her name, and update the input/message appropriately. (Hint: use prompt(msg)).
+
+*NOTE* Don't merge this branch directly into master from git. Instead, use Github's pull request feature to get to know how their code review tool.
 
 ## FEATURE-1
 The box which displays the user's name should also greet the user (e.g Hi, Name!).
