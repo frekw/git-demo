@@ -1,0 +1,33 @@
+1. Fork https://github.com/frekw/git-demo
+
+2. Clone the repo to your machine.
+
+
+# Tasks
+
+## BUG-1
+The logo is all wrong. Fix it.
+
+## BUG-2
+We seem to be getting a script error. Fix it.
+
+## BUG-3
+Someone seems to have left an unfinished feature in the code base. Clicking the Ask button should prompt the user for his/her name, and update the input/message appropriately. (Hint: use prompt(msg))
+
+## FEATURE-1
+The box which displays the user's name should also green the user (e.g Hi, Name!). 
+
+## FEATURE-2
+There's an unfinished validator in 'feature-name_validation'. Finish it.
+
+## FEATURE-3
+Wouldn't it be lovely if the text input changed color when validation fails. Hint: http://twitter.github.com/bootstrap/base-css.html#inputWarning
+
+# Rules
+Only one change/feature/fix per commit. Commits touching multiple things will be rejected (that is, if your commit message contains the word "and").
+
+Write proper commit messages using capitlization and proper punctuation, or your pull request will get rejected.
+
+Create a new branch for each fix.
+
+Let's keep our history clean, rebase before pushing, or your pull request will get rejected.
