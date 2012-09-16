@@ -15,7 +15,7 @@ We seem to be getting a script error. Fix it.
 Someone seems to have left an unfinished feature in the code base. Clicking the Ask button should prompt the user for his/her name, and update the input/message appropriately. (Hint: use prompt(msg))
 
 ## FEATURE-1
-The box which displays the user's name should also green the user (e.g Hi, Name!). 
+The box which displays the user's name should also greet the user (e.g Hi, Name!).
 
 ## FEATURE-2
 There's an unfinished validator in 'feature-name_validation'. Finish it.
