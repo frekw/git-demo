@@ -34,3 +34,4 @@ Write proper commit messages using capitlization and proper punctuation, or your
 Create a new branch for each fix.
 
 Let's keep our history clean, rebase before pushing, or your pull request will get rejected.
+
